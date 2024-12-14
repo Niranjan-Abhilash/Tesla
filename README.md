@@ -1,2 +1,3 @@
 # Tesla
-A cool little program
+A cool little terminal program written in Python.
+#
